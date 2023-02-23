@@ -1,4 +1,4 @@
-# Paper-Rock-Scissors
+# Paper-Rock-Scissors 
  It's a simple game made with HTML, CSS, JavaScript
  
  ![1](https://user-images.githubusercontent.com/57075208/220986540-14c55fa1-7e7c-4f4a-95b8-b6ed2003f2d6.jpeg)
